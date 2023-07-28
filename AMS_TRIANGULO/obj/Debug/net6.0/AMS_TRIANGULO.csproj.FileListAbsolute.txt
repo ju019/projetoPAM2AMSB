@@ -1,0 +1,15 @@
+D:\2ANO-ADS-AMS\Programmers\AMS_TRIANGULO\bin\Debug\net6.0\AMS_TRIANGULO.exe
+D:\2ANO-ADS-AMS\Programmers\AMS_TRIANGULO\bin\Debug\net6.0\AMS_TRIANGULO.deps.json
+D:\2ANO-ADS-AMS\Programmers\AMS_TRIANGULO\bin\Debug\net6.0\AMS_TRIANGULO.runtimeconfig.json
+D:\2ANO-ADS-AMS\Programmers\AMS_TRIANGULO\bin\Debug\net6.0\AMS_TRIANGULO.dll
+D:\2ANO-ADS-AMS\Programmers\AMS_TRIANGULO\bin\Debug\net6.0\AMS_TRIANGULO.pdb
+D:\2ANO-ADS-AMS\Programmers\AMS_TRIANGULO\obj\Debug\net6.0\AMS_TRIANGULO.csproj.AssemblyReference.cache
+D:\2ANO-ADS-AMS\Programmers\AMS_TRIANGULO\obj\Debug\net6.0\AMS_TRIANGULO.GeneratedMSBuildEditorConfig.editorconfig
+D:\2ANO-ADS-AMS\Programmers\AMS_TRIANGULO\obj\Debug\net6.0\AMS_TRIANGULO.AssemblyInfoInputs.cache
+D:\2ANO-ADS-AMS\Programmers\AMS_TRIANGULO\obj\Debug\net6.0\AMS_TRIANGULO.AssemblyInfo.cs
+D:\2ANO-ADS-AMS\Programmers\AMS_TRIANGULO\obj\Debug\net6.0\AMS_TRIANGULO.csproj.CoreCompileInputs.cache
+D:\2ANO-ADS-AMS\Programmers\AMS_TRIANGULO\obj\Debug\net6.0\AMS_TRIANGULO.dll
+D:\2ANO-ADS-AMS\Programmers\AMS_TRIANGULO\obj\Debug\net6.0\refint\AMS_TRIANGULO.dll
+D:\2ANO-ADS-AMS\Programmers\AMS_TRIANGULO\obj\Debug\net6.0\AMS_TRIANGULO.pdb
+D:\2ANO-ADS-AMS\Programmers\AMS_TRIANGULO\obj\Debug\net6.0\AMS_TRIANGULO.genruntimeconfig.cache
+D:\2ANO-ADS-AMS\Programmers\AMS_TRIANGULO\obj\Debug\net6.0\ref\AMS_TRIANGULO.dll
